@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-playground",
+  "version": "1.0.0",
+  "description": "Playground for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiopro/nextjs-playground.git"
+  },
+  "author": "Claudio Procida <claudio.procida@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiopro/nextjs-playground/issues"
+  },
+  "homepage": "https://github.com/claudiopro/nextjs-playground#readme",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
